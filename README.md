@@ -34,15 +34,15 @@ The study also examines correlations with **income classifications** (low, lower
 
 ## Screenshots
 
--Responsive and Design of Dashboard
+- Responsive and Design of Dashboard
 
 <img width="1519" height="853" alt="Screenshot 2025-09-27 183742" src="https://github.com/user-attachments/assets/7c3af57d-8148-4bd7-8396-e6afe58f873b" />
 
--Design of Report
+- Design of Report
 
 <img width="1510" height="852" alt="Screenshot 2025-09-27 184559" src="https://github.com/user-attachments/assets/276f0e1e-08e9-4f53-bdda-0824e969ff06" />
 
--Amount of Data Loaded
+- Amount of Data Loaded
 
 <img width="855" height="684" alt="Screenshot 2025-09-27 184653" src="https://github.com/user-attachments/assets/dd1e2a05-d9df-4ece-9126-f39367a0179a" />
 

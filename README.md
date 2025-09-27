@@ -32,6 +32,20 @@ The study also examines correlations with **income classifications** (low, lower
 6. **Overweight vs. Underweight under Income Classification** – Ribbon chart analysis.  
 7. **Sum of Income Classification** – Breakdown by income categories.  
 
+## Screenshots
+
+-Responsive and Design of Dashboard
+
+<img width="1519" height="853" alt="Screenshot 2025-09-27 183742" src="https://github.com/user-attachments/assets/7c3af57d-8148-4bd7-8396-e6afe58f873b" />
+
+-Design of Report
+
+<img width="1510" height="852" alt="Screenshot 2025-09-27 184559" src="https://github.com/user-attachments/assets/276f0e1e-08e9-4f53-bdda-0824e969ff06" />
+
+-Amount of Data Loaded
+
+<img width="855" height="684" alt="Screenshot 2025-09-27 184653" src="https://github.com/user-attachments/assets/dd1e2a05-d9df-4ece-9126-f39367a0179a" />
+
 ## Project Workflow
 1. **Data Collection** – Dataset downloaded from Kaggle.  
 2. **Data Connection** – Imported into Power BI.  
@@ -48,13 +62,6 @@ The repository includes the raw dataset files used in this analysis:
 - `country-wise-average.csv`  
 
 These were sourced from Kaggle and form the basis for the Power BI dashboard.  
-
-## Screenshots
-<img width="1519" height="853" alt="Screenshot 2025-09-27 183742" src="https://github.com/user-attachments/assets/7c3af57d-8148-4bd7-8396-e6afe58f873b" />
-
-<img width="1510" height="852" alt="Screenshot 2025-09-27 184559" src="https://github.com/user-attachments/assets/276f0e1e-08e9-4f53-bdda-0824e969ff06" />
-
-<img width="855" height="684" alt="Screenshot 2025-09-27 184653" src="https://github.com/user-attachments/assets/dd1e2a05-d9df-4ece-9126-f39367a0179a" />
 
 ## Dashboard Highlights
 - Interactive **filters** for income levels, countries, and malnutrition types.  
